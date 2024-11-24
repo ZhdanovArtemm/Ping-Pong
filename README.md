@@ -1,2 +1,2 @@
 # Ping-Pong
-Learning project
+Learning project. I want to do my own game. With out helping of platform
